@@ -1,24 +1,24 @@
 # cursos-cliente
 
-## Project setup
+## Inicializar proyecto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### compilar proyecto en dev
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar y minificar proyecto para produccion
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Limpiar y corregir archivos
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Para personalizar la configuracion
+vea [Referencia de configurcion](https://cli.vuejs.org/config/).
