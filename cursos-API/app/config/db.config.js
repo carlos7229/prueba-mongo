@@ -1,3 +1,3 @@
 module.exports = {
-    url: "mongodb://localhost:27017/yonko_db"
+    url: "mongodb+srv://cursos:7229@cluster0-zshxa.mongodb.net/test?retryWrites=true&w=majority"
   };
